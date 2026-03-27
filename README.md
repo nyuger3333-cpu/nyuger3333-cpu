@@ -10,23 +10,17 @@
 <br><br>
 
 <details align="center">
-  <summary style="font-size:11px; cursor:pointer;">
+  <summary style="font-size:10px; cursor:pointer; list-style:none;">
     open
   </summary>
 
-  <br>
-
-  <div style="font-size:12px;">
+  <div style="font-size:11px; margin-top:6px;">
     i reallyreally love my bf yves<br>
     i only play pt for ouma 🥺
   </div>
 
 </details>
 
-  i reallyreally love my bf yves<br>
-  i only play pt for ouma 🥺
-
-</details>
 <img src="https://komarev.com/ghpvc/?username=fisheito&label=♰&color=171314">
 
 </div>
