@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/3741133fbbef1f19bd536e4aef2efde2/b3197748b25181fa-ac/s250x400/f28a1a0e1a4b4dd4855711a6676395c4c542c2df.gif" width="200"><br><br>
+<img src="https://64.media.tumblr.com/f8e566e3c3aba6ba6a9786be688c025c/a7eb681006342924-f5/s75x75_c1/43f9a84ad23d9c88e3b49c9131628c59574fa742.gifv" width="200"><br><br>
 
 <span>
   <a href="https://ichigotaku.straw.page/" style="color:#8b3a3a; text-decoration:none;">s</a>traw&nbsp;
@@ -11,7 +11,7 @@
 
 <details align="center">
   <summary>
-    <img src="https://64.media.tumblr.com/9cf9278ca23b7be48d14b673154dc9c5/324062cd5ecdece1-e7/s75x75_c1/07ba7ec11952d7f7f1b10ce873c320c27049a2ae.gif" width="20" alt="open">
+    <img src="https://64.media.tumblr.com/3741133fbbef1f19bd536e4aef2efde2/b3197748b25181fa-ac/s250x400/f28a1a0e1a4b4dd4855711a6676395c4c542c2df.gif" width="20" alt="open">
   </summary>
 
   <br>
