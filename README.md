@@ -17,7 +17,7 @@
   <br>
 
   i reallyreally love my bf yves<br>
-  i only play pt for ouma hehe <img src="https://ranfren.neocities.org/fun/umu.gif" width="30">
+  i only play pt for ouma hehe <img src="https://ranfren.neocities.org/fun/umu.gif" width="60">
 </details>
 
 <img src="https://komarev.com/ghpvc/?username=fisheito&label=☓&color=171314">
