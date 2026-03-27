@@ -20,6 +20,6 @@
   i only play pt for ouma 🥺
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=fisheito&label=♰&color=171314">
+<img src="https://komarev.com/ghpvc/?username=fisheito&label=☓&color=171314">
 
 </div>
