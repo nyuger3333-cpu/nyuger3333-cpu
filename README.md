@@ -11,18 +11,14 @@
 
 <details align="center">
   <summary>
-<summary>
-  <small><small>open</small></small>
-</summary>
+    <span style="font-size:10px;">open</span>
   </summary>
 
   <br>
 
   i reallyreally love my bf yves<br>
   i only play pt for ouma 🥺
-
 </details>
-
 
 <img src="https://komarev.com/ghpvc/?username=fisheito&label=♰&color=171314">
 
