@@ -11,7 +11,9 @@
 
 <details align="center">
   <summary>
-    <small>open</small>
+<summary>
+  <small><small>open</small></small>
+</summary>
   </summary>
 
   <br>
@@ -20,7 +22,7 @@
   i only play pt for ouma 🥺
 
 </details>
->
+
 
 <img src="https://komarev.com/ghpvc/?username=fisheito&label=♰&color=171314">
 
