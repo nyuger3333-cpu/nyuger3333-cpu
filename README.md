@@ -11,7 +11,7 @@
 
 <details align="center">
   <summary>
-    <span style="font-size:10px;">open</span>
+    <img src="https://64.media.tumblr.com/9cf9278ca23b7be48d14b673154dc9c5/324062cd5ecdece1-e7/s75x75_c1/07ba7ec11952d7f7f1b10ce873c320c27049a2ae.gifv" width="20" alt="open">
   </summary>
 
   <br>
