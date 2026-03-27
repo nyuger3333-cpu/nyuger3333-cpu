@@ -7,10 +7,12 @@
 <img src="https://64.media.tumblr.com/e8cf0a72953bdb90710985c4be2ca742/1a2a861156920619-e6/s75x75_c1/180b14d45729b966fd1e783d64120b9a1ee51359.gifv" width="14">
 
 <a href="https://fisheito.atabook.org/" style="color:#8b3a3a; text-decoration:none;">ata</a>
-
-<br><br>
+<br>
 
 i reallyreally love my bf yves<br>
-i only play pt for ouma 🥺
+i only play pt for ouma 🥺<br>
+  <div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=fisheito&amp;label=♰&amp;color=171314" alt="">
 
 </div>
