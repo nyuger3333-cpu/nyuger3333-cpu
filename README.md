@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/eafc0fbe7fca4ba32a42f6a344a75542/fe458fd20b0ddc11-bf/s75x75_c1/c78b5e1e78b73df1054016c9430111282c33d4cf.gifv" width="200"><br><br>
+<img src="https://ranfren.neocities.org/fun/nowloading....color.....gif" width="180"><br><br>
 
 <span>
   <a href="https://ichigotaku.straw.page/" style="color:#8b3a3a; text-decoration:none;">s</a>traw
