@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ranfren.neocities.org/fun/nowloading....color.....gif" width="180"><br><br>
+<img src="https://ranfren.neocities.org/art/dot/randalleftover.gif" width="180"><br><br>
 
 <span>
   <a href="https://ichigotaku.straw.page/" style="color:#8b3a3a; text-decoration:none;">s</a>traw
