@@ -9,8 +9,10 @@
 </span>
 <br><br>
 
-<details align="center"> <summary> <img src="https://64.media.tumblr.com/e8cf0a72953bdb90710985c4be2ca742/1a2a861156920619-e6/s75x75_c1/180b14d45729b966fd1e783d64120b9a1ee51359.gif" width="20" alt="open"> </summary> <br> i reallyreally love my bf yves<br> i only play pt for ouma hehe <img src="https://ranfren.neocities.org/fun/wahwahwah.gif" 
-     width="30" style="vertical-align:-2px;">"width="30"> </details>
+<details align="center"> <summary> <img src="https://64.media.tumblr.com/e8cf0a72953bdb90710985c4be2ca742/1a2a861156920619-e6/s75x75_c1/180b14d45729b966fd1e783d64120b9a1ee51359.gif" width="20" alt="open"> </summary> <br> i reallyreally love my bf yves<br>
+i only play pt for ouma hehe 
+<img src="https://ranfren.neocities.org/fun/wahwahwah.gif" 
+     width="30" style="vertical-align:text-bottom;">
 
 <img src="https://komarev.com/ghpvc/?username=fisheito&label=☓&color=171314">
 
