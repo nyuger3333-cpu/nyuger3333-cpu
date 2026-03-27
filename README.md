@@ -5,7 +5,7 @@
 <span>
   <a href="https://ichigotaku.straw.page/" style="color:#8b3a3a; text-decoration:none;">s</a>traw&nbsp;
   𓏵
-  <a href="https://fisheito.atabook.org/" style="color:#8b3a3a; text-decoration:none;">a</a>ta
+    <a href="https://fisheito.atabook.org/" style="color:#8b3a3a; text-decoration:none;">a</a>ta
 </span>
 <br><br>
 
